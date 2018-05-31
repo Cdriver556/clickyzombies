@@ -1,7 +1,8 @@
 .wrapper {
     background: rgb(175, 175, 175);
-    background-image: url('https://images7.alphacoders.com/400/thumb-1920-400623.jpg');
+    background-image: url('https://www.zonealarm.com/blog/wp-content/uploads/2014/05/ZOMBIE-SIGNS-1_header.png');
     height: 100%;
+    width: 100%;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
