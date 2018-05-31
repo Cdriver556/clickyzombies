@@ -10,3 +10,6 @@
     overflow: auto;
     padding-bottom: 50px;
   }
+  .zombie {
+    display: none;
+  }
